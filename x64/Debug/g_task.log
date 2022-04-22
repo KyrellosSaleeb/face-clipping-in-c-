@@ -1,0 +1,7 @@
+﻿  g_task.cpp
+D:\g_task\g_task\g_task.cpp(65,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\g_task\g_task\g_task.cpp(119,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\g_task\g_task\g_task.cpp(120,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\g_task\g_task\g_task.cpp(315,20): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+D:\g_task\g_task\g_task.cpp(326,10): warning C4102: 'label': unreferenced label
+  g_task.vcxproj -> D:\g_task\x64\Debug\g_task.exe
